@@ -2,3 +2,6 @@
 /.project
 /Release/
 /core/
+/.settings/
+SmartCrosswalk_Sensor.cpp
+SmartCrosswalk_Sensor.h
