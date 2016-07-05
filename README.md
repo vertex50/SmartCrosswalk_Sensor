@@ -1,6 +1,8 @@
 #[2016_한이음] 3팀_IoT기반 국도 횡단보도 보행자 지킴이
 
 아두이노를 사용하는 센서 제어 및 제어장치와의 통신 알고리즘.
+## Issue Opend / Closed
+[![Throughput Graph](https://graphs.waffle.io/CUDTeam3/SmartCrosswalk_Sensor/throughput.svg)](https://waffle.io/CUDTeam3/SmartCrosswalk_Sensor/metrics/throughput)
 
 ## 개발 환경
 > 개발 언어 : c/c++ for Arduino 1.6.9
