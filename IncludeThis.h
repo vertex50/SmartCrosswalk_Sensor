@@ -19,6 +19,7 @@
 #include "Functions/TrafficLight.h" //신호등 제어 프로그램
 #include "Functions/ReceiveSignal.h" //아두이노에서 신호 수신
 #include "Functions/SendSignal.h" //아두이노에서 신호 송신
+#include "Functions/LED_light.h" //아두이노 신호 출력
 
 //헤더는 여기 이전에 포함시켜야 함!
 #endif /* INCLUDETHIS_H_ */
